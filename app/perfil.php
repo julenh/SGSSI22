@@ -36,7 +36,7 @@ function killerSession(){
         <link rel="stylesheet" href="estilos/e_MiPerfil.css"></link>
         <script type="text/javascript" src="JavaScript/editarDato.js"></script>
     </head>
-    <body background="imagenes/uni.jpg">
+    <body background="imagenes/perfil.jpg">
         <nav id="Principal">
             <a class= "menu" href= "index.php">Página Principal  |</a>
             <a class= "menu" href= "Explorar.php">Explorar  |</a>
