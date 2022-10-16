@@ -37,7 +37,7 @@ function killerSession(){
   <script type="text/javascript" src="JavaScript/Registro.js"></script>
   <title>Formulario Registro</title>
 </head>
-<body background="imagenes/InicSe.jpg">
+<body background="imagenes/registro.jpg">
     <nav id="Principal">
       <a class= "menu" href= "index.php">Página Principal  |</a>
       <a class= "menu" href= "Explorar.php">Explorar  |</a>

@@ -35,7 +35,7 @@ function killerSession(){
         <link rel="stylesheet" href="estilos/e_Actividades.css"/>
         <script type="text/javascript" src="JavaScript/actividad.js"></script>
     </head>
-    <body background="imagenes/princ.jpg">
+    <body background="imagenes/prin.jpg">
         <nav id="Principal">
             <a class= "menu" href= "index.php">Página Principal  |</a>
             <a class= "menu" href= "Explorar.php">Explorar  |</a>

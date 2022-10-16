@@ -36,7 +36,7 @@ function killerSession(){
         <title>Meet Erasmus+</title>
         <link rel="stylesheet" href="estilos/estilosPrinc.css"/>
     </head>
-    <body background="imagenes/princ.jpg">
+    <body background="imagenes/pagprin.jpg">
         <nav id="Principal">
             <a class= "link" href= "index.php">Página Principal  |</a>
             <a class= "link" href= "Explorar.php">Explorar  |</a>
@@ -61,13 +61,13 @@ function killerSession(){
                 ?>
         </nav>
     <section>
-        <h1 id=cuerpo>BIENVENID@ A ERASMUS+ </h1>
+        <h1 id=cuerpo>BIENVENIDO A UNIFRIENDS </h1>
         <br>
-        <h2 id=cuerpo2> TU WEB PARA FACILITARTE LA BÚSQUEDA DE UNIVERSIDADES CERCA DE TI, <br>
-            TE ENCONTRAMOS LAS ACTIVIDADES REALIZADAS POR USUARIOS <br>
-            PARA CONOCER MEJOR TU LUGAR DE ERASMUS</h2>
+        <h2 id=cuerpo2> SI ESTAS BUSCANDO HACER AMIGOS UNIVERSITARIOS 
+        ESTA ES TU WEB, AQUI PODRAS CONOCER GENTE DE OTRAS UNIVERSIDADES 
+        CERCA DE TI CON LAS QUE REALIZAR ACTIVIDADES, ESTUDIAR Y SALIR DE FIESTA </h2>
         <br>
-        <h3 id=cuerpo2> APÚNTATE Y AÑADE MÁS ACTIVIDADES SI TE GUSTA ESTA EXPERIENCIA! </h3>
+        <h3 id=cuerpo2> NO TE LO PIENSES DOS VECES Y APUNTATE PARA HACER NUEVOS AMIGOS </h3>
     </section>
     </body>
 </html>
