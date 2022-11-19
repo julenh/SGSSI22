@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="text/javascript" src="JavaScript/InicSesion.js"></script>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="estilos/e_InicioSesion.css">
+  <title>Formulario Registro</title>
+</head>
+<body background="imagenes/InicSe.jpg">
+    <nav id="Principal">
+      <a class= "menu" href= "index.php">Página Principal  |</a>
+      <a class= "menu" href= "Explorar.html">Explorar  |</a>
+      <a class= "menu" href= "Actividades.php">Actividades  |</a>
+      <a class= "menu" href= "Registro.html">Registro  |</a>
+      <a class= "menu" href= "perfil.php">Mi Perfil</a>
+    </nav>
+  <section class="form-register">
+    <h4>Inicio Sesión</h4>
+    <form name = "formularioIS" action="InicioSes.php" method="POST">
+      <input class="controls" type="text" name="correo" id="correo" placeholder="Ingresa tu Correo">
+      <input class="controls" type="password" name="contr" id="contr" placeholder="Ingresa tu Contraseña">
+      <input class="botons" type="button" value="Iniciar Sesión" onclick="iniciarSesion()" >
+      <p><a href="Registro.html">¿Aún no tienes cuenta?</a></p>
+  </form>
+  </section>
+</body>
+</html>
